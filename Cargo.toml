@@ -1,0 +1,8 @@
+[package]
+authors = ["Philipp Oppermann <dev@phil-opp.com>"]
+name = "bug_test"
+version = "0.1.0"
+license = "MIT/Apache-2.0"
+
+[dependencies]
+
